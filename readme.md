@@ -7,7 +7,7 @@ Ahora, cuando el cajero realiza una venta, los datos se ingresan en el sistema, 
 
 |  Tecnología  | Información |  Datos  | Proceso | Persona |
 |----------|---------|---------|---------|---------|
-| Computadora || Código del producto | Registro de venta | Administrador |
+| Computadora |Reporte diario | Código del producto | Registro de venta | Administrador |
 | Sistema de punto de venta | Actualización de inventario| Productos solicitados | Generación de facturas | Supervisor |
 | Lector de código de barras | Factura digital generada | Disponible en inventario | Descontar automáticamente el producto del inventario | Operativo |
 | Impresora de facturas | Lista de productos más vendidos | | Calculo Total | Cliente |
